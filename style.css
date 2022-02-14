@@ -46,6 +46,14 @@ body {
     margin-left: 5px;
 }
 
+.ml10{
+    margin-left: 10px;
+}
+
+.mr10{
+    margin-right: 10px;
+}
+
 form {
 	max-width: 400px;
 	margin: 10px auto;
